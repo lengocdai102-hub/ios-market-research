@@ -1,0 +1,118 @@
+{
+ "total": 10546,
+ "zero": 3169,
+ "low": 3743,
+ "mid": 1020,
+ "high": 2614,
+ "genres": [
+  [
+   "Utilities",
+   2133
+  ],
+  [
+   "Business",
+   1431
+  ],
+  [
+   "Travel",
+   1274
+  ],
+  [
+   "Productivity",
+   1134
+  ],
+  [
+   "Finance",
+   911
+  ],
+  [
+   "Navigation",
+   785
+  ],
+  [
+   "Lifestyle",
+   542
+  ],
+  [
+   "Weather",
+   455
+  ],
+  [
+   "Sports",
+   371
+  ],
+  [
+   "Games",
+   315
+  ],
+  [
+   "Health & Fitness",
+   212
+  ],
+  [
+   "Shopping",
+   183
+  ],
+  [
+   "Reference",
+   176
+  ],
+  [
+   "Education",
+   170
+  ],
+  [
+   "Food & Drink",
+   102
+  ],
+  [
+   "Entertainment",
+   54
+  ],
+  [
+   "Medical",
+   54
+  ],
+  [
+   "Book",
+   53
+  ],
+  [
+   "Social Networking",
+   42
+  ],
+  [
+   "Photo & Video",
+   38
+  ],
+  [
+   "Graphics & Design",
+   30
+  ],
+  [
+   "Developer Tools",
+   25
+  ],
+  [
+   "Music",
+   24
+  ],
+  [
+   "News",
+   17
+  ],
+  [
+   "Magazines & Newspapers",
+   11
+  ],
+  [
+   "Stickers",
+   4
+  ]
+ ],
+ "by_source": {
+  "本轮关键词池": 10312,
+  "并行扩池(895)": 234
+ },
+ "active_180d": 6591
+}

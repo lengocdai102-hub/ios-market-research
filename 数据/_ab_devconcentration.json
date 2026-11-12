@@ -1,0 +1,149 @@
+{
+ "dev_count": 106,
+ "solo_devs": 101,
+ "solo_apps": 101,
+ "multi_devs": 5,
+ "multi_apps": 12,
+ "dist": {
+  "1": 101,
+  "2": 3,
+  "3": 2
+ },
+ "multi_detail": [
+  {
+   "seller": "Social Knowledge, LLC",
+   "n": 3,
+   "total_urc": 45281,
+   "apps": [
+    {
+     "name": "RV LIFE - RV GPS & Campgrounds",
+     "urc": 45037,
+     "genre": "Travel",
+     "entity": "公司主体(中小/垂直厂)"
+    },
+    {
+     "name": "RV Parks",
+     "urc": 170,
+     "genre": "Travel",
+     "entity": "公司主体(中小/垂直厂)"
+    },
+    {
+     "name": "RV Owners Community",
+     "urc": 74,
+     "genre": "Social Networking",
+     "entity": "公司主体(中小/垂直厂)"
+    }
+   ]
+  },
+  {
+   "seller": "Outdoorsy, Inc",
+   "n": 2,
+   "total_urc": 33495,
+   "apps": [
+    {
+     "name": "Outdoorsy - Rent an RV",
+     "urc": 22313,
+     "genre": "Travel",
+     "entity": "公司主体(中小/垂直厂)"
+    },
+    {
+     "name": "Outdoorsy Host - Rent your RV",
+     "urc": 11182,
+     "genre": "Travel",
+     "entity": "公司主体(中小/垂直厂)"
+    }
+   ]
+  },
+  {
+   "seller": "Kyle Modesitt",
+   "n": 2,
+   "total_urc": 7375,
+   "apps": [
+    {
+     "name": "USFS & BLM Campgrounds",
+     "urc": 4343,
+     "genre": "Travel",
+     "entity": "个人独立开发者"
+    },
+    {
+     "name": "RV Dump Stations",
+     "urc": 3032,
+     "genre": "Travel",
+     "entity": "个人独立开发者"
+    }
+   ]
+  },
+  {
+   "seller": "Lippert Components, INC.",
+   "n": 2,
+   "total_urc": 2233,
+   "apps": [
+    {
+     "name": "LCI OneControl",
+     "urc": 2075,
+     "genre": "Productivity",
+     "entity": "公司主体(中小/垂直厂)"
+    },
+    {
+     "name": "Lippert Connect",
+     "urc": 158,
+     "genre": "Productivity",
+     "entity": "公司主体(中小/垂直厂)"
+    }
+   ]
+  },
+  {
+   "seller": "ETN Capital LLC",
+   "n": 3,
+   "total_urc": 169,
+   "apps": [
+    {
+     "name": "LevelMatePRO",
+     "urc": 145,
+     "genre": "Travel",
+     "entity": "公司主体(中小/垂直厂)"
+    },
+    {
+     "name": "Beech Lane RV Leveling System",
+     "urc": 18,
+     "genre": "Travel",
+     "entity": "公司主体(中小/垂直厂)"
+    },
+    {
+     "name": "Venture RV",
+     "urc": 6,
+     "genre": "Travel",
+     "entity": "公司主体(中小/垂直厂)"
+    }
+   ]
+  }
+ ],
+ "entity_mix": {
+  "公司主体(中小/垂直厂)": {
+   "apps": 78,
+   "urc": 951528
+  },
+  "公共机构/政府平台": {
+   "apps": 2,
+   "urc": 531470
+  },
+  "个人独立开发者": {
+   "apps": 20,
+   "urc": 13346
+  },
+  "其他/未识别": {
+   "apps": 13,
+   "urc": 9765
+  }
+ },
+ "rv": {
+  "n_apps": 106,
+  "n_devs": 99,
+  "person_apps": 18,
+  "person_urc": 8230,
+  "company_apps": 73,
+  "gov_apps": 2,
+  "solo_apps": 94,
+  "total_urc": 1368139
+ }
+}

@@ -1,0 +1,79 @@
+{
+  "checked_at": "2026-11-11T11:49:24.193103",
+  "passed": 9,
+  "total": 9,
+  "results": [
+    {
+      "id": "V1.1",
+      "name": "master 唯一评论数 = 源文件行数 - 跨文件重复",
+      "expected": 50326,
+      "actual": 50326,
+      "pass": true,
+      "note": "源文件共 52,522 行, 跨文件重复 2,196 条"
+    },
+    {
+      "id": "V1.2",
+      "name": "review_id 完全唯一(0重复)",
+      "expected": 0,
+      "actual": 0,
+      "pass": true,
+      "note": "按 review_id 去重后应无重复"
+    },
+    {
+      "id": "V1.3",
+      "name": "正文非空率 100%",
+      "expected": 100.0,
+      "actual": 100.0,
+      "pass": true,
+      "note": ""
+    },
+    {
+      "id": "V3.1",
+      "name": "竞品池规模 = 11,841 (98关键词Search发现 + lookup补全)",
+      "expected": 11841,
+      "actual": 11841,
+      "pass": true,
+      "note": ""
+    },
+    {
+      "id": "V3.2",
+      "name": "竞品池覆盖开发者(seller去重) = 9,618",
+      "expected": 9618,
+      "actual": 9618,
+      "pass": true,
+      "note": ""
+    },
+    {
+      "id": "V3.3",
+      "name": "竞品池中评分数>100 的 app 数 = 2,783",
+      "expected": 2783,
+      "actual": 2783,
+      "pass": true,
+      "note": ""
+    },
+    {
+      "id": "V4.1",
+      "name": "IAP 中位价 = 12.99",
+      "expected": 12.99,
+      "actual": 12.99,
+      "pass": true,
+      "note": ""
+    },
+    {
+      "id": "V6.1",
+      "name": "评分量 TOP15 开发者中的独立开发者数量 = 0 (扩池到 11,841 后推翻旧结论)",
+      "expected": 0,
+      "actual": 0,
+      "pass": true,
+      "note": "旧 895 池时 TOP15 有 1 个个人开发者 (Thomas Tsopanakis), 扩池后已跌出 TOP15"
+    },
+    {
+      "id": "V6.2",
+      "name": "TOP15 开发者合计评分占全池 = 72.6%",
+      "expected": 72.6,
+      "actual": 72.6,
+      "pass": true,
+      "note": ""
+    }
+  ]
+}
